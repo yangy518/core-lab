@@ -1,0 +1,10 @@
+.outline{
+    width: 550px;
+    height: 800px;
+    border: 1px solid black;
+    font-family: courier;
+/*        text-align: center;
+*/    }
+.inner{
+    margin: 30px;
+}
