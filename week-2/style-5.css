@@ -1,0 +1,29 @@
+.outline{
+    margin: 2em;
+  margin: 0;
+  padding: 0;
+    width: 400px;
+    height: 720px;
+    border: 1px solid black;
+    font-family: courier new;
+    top: 10px;
+    right: 10px;
+    margin-left: auto;
+}
+.content1{
+    position: absolute;
+  top: 100px;
+  left: 60px;
+  text-align: left;
+}
+.upper-left-box{
+    display: inline-block;
+    border: 1px solid red;
+    width: 300px;
+    height: 300px;
+}
+
+.center{
+    text-align: center;
+}
+
