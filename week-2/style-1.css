@@ -1,7 +1,32 @@
-.upper-part{
+body {
+    font-family: monospace,sans-serif;
+    margin: 2em;
+    margin: 0;
+    padding: 0;
+  }
 
-}
+  .upper-part{
+    border: 1px solid green;
+    height: 320px;
+  }
 
-.lower-part{
-    
-}
+  .content-up{
+      text-align: center;
+      transform: translate(0px, -71px) scale(0.9, 0.65);
+  }
+  .lower-part{
+      border: 1px solid red;
+      bottom: 0;
+      position: absolute;
+      width: 100%;
+      margin: 0 auto;
+  }
+  .content-down{
+      position: absolute;
+    top: 50%;
+    left: 25%;
+    /* transform: translate(-50%, -50%) */
+    text-align: center;
+
+  }
+  

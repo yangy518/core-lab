@@ -14,8 +14,8 @@
 .content1{
     position: absolute;
   top: 100px;
-  left: 60px;
-  text-align: left;
+  left: 30px;
+  text-align: center;
 }
 .upper-left-box{
     display: inline-block;
