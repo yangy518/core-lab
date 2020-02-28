@@ -56,3 +56,10 @@ body{
     bottom: 88px;
     left: 514px;
 }
+
+.add{
+    position: absolute;
+    width: 95px;
+    bottom: 318px;
+    left: 672px;
+}
