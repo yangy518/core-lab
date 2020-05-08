@@ -36,7 +36,20 @@ font-family: itc-avant-garde-gothic-pro, sans-serif;
   margin: 4px 2px;
   cursor: pointer;
 }
-
+.button3{
+  background-color: #e8a2ac;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-family: itc-avant-garde-gothic-pro, sans-serif;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 .link1{
   position: absolute;
   top: 35%;
@@ -47,6 +60,12 @@ font-family: itc-avant-garde-gothic-pro, sans-serif;
   position: absolute;
   top: 45%;
   right: 10%;
+}
+
+.link3{
+    position: absolute;
+    top: 53%;
+    right: 10%;
 }
   @keyframes dash{
     from {
