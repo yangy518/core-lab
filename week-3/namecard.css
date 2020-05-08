@@ -1,4 +1,53 @@
+a:link{
+  text-decoration: none;
+color: #405092;
+  }
+a:visited{
+color: #405092;
+font-family: itc-avant-garde-gothic-pro, sans-serif;
 
+}
+.button1{
+  background-color: #e8a2ac;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-family: itc-avant-garde-gothic-pro, sans-serif;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button2{
+  background-color: #e8a2ac;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-family: itc-avant-garde-gothic-pro, sans-serif;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.link1{
+  position: absolute;
+  top: 35%;
+  right: 10%;
+}
+
+.link2{
+  position: absolute;
+  top: 45%;
+  right: 10%;
+}
   @keyframes dash{
     from {
       stroke-dashoffset: 822;
